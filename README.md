@@ -29,3 +29,21 @@ Average case
 [2,3,4,5,7,9,8,15,6] <br><br>
 [2,3,4,5,6,9,8,15,7] <br><br>
 
+
+
+<h2>Merge Sort Projesi</h2>
+
+[16,21,11,8,12,22] -> Merge Sort <br><br>
+
+     Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+  [16,21,11]        [8,12,22] <br><br>
+  
+  [11] [16,21]      [8] [12,22] <br><br>
+  
+  [11] [16] [21]    [8] [12] [22] <br><br>
+        [8,11,12,16,21,22]
+
+     Big-O gösterimini yazınız. 
+
+  Big-O: O(nlog)
+
