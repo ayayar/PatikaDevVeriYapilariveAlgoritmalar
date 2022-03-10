@@ -18,7 +18,7 @@ O (n^2) <br>
       Best case: Aradığımız sayının dizinin en başında olması. 
      
      
-     4) 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.<br>
+     4) 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Average case
 
 
