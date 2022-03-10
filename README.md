@@ -46,4 +46,23 @@ Average case
      Big-O gösterimini yazınız. 
 
   Big-O: O(nlog)
+  
+  
+  <br>
 
+
+<h2> Binary Search Tree </h2>
+  
+  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+<strong>root</strong> = 7
+
+              7
+             / \
+            5   8
+           / \   \  
+          1   6   9
+         / \   
+        0   3 
+           / \
+          2   4      
